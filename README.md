@@ -1,4 +1,4 @@
-# hash_command_Mod
+# hash command Mod
 /#コマンドを追加します(めっっっちゃ適当です)
 
 ![2022-09-08_12 21 07](https://user-images.githubusercontent.com/108072158/189027094-78a2a3b5-c19d-478a-b947-6976eaa78e77.png)

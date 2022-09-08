@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Not specified"
+
+[[mods]]
+modId="hashcommand"
+version="1.0"
+displayName="hashcommand"
+credits=""
+displayURL="https://github.com/hikoma0000/hash_command_Mod"
+authors="hikoma0000"
+
+[[dependencies.hashcommand]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"

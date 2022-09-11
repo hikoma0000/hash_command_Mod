@@ -17,8 +17,8 @@ forgeの1.18.2に対応してます
 
 |  function名  |  内部のコマンド  |
 | ---- | ---- |
-|  hashcommand:hash  |  `#`  |
-|  hashcommand:execute_run_hash  |  `execute run #`  |
+|  `hashcommand:hash`  |  `#`  |
+|  `hashcommand:execute_run_hash`  |  `execute run #`  |
 
 # functionの実行結果
 ```

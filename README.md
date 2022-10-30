@@ -9,7 +9,8 @@ forgeの1.18.2に対応してます
 [Releases](https://github.com/hikoma0000/hash_command_Mod/releases/tag/v1.0) からどうぞ
 
 # 概要
-`/# ->  チャットに'#'と表示される`
+### 基本
+`/#   ->    チャットに'#'と表示される`
 
 ### funcitonについて
 
